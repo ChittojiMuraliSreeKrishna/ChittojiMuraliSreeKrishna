@@ -29,5 +29,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   </div>
 <h3>  C Murali sree krishna </h3>
 
-<font color="red">Gmail: cmkrishna97@gmail.com</font>
-<p style='color:blue'>Linkdin: linkedin.com/in/murali-sree-krishna-chittoji-06a353170/</p>
+- ![#f03c15](Gmail: cmkrishna97@gmail.com)
+Linkdin: linkedin.com/in/murali-sree-krishna-chittoji-06a353170/
