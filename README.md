@@ -29,5 +29,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   </div>
 <h3>  C Murali sree krishna </h3>
 
-- ![#f03c15](Gmail: cmkrishna97@gmail.com)
-- ![#1589F0](Linkdin: linkedin.com/in/murali-sree-krishna-chittoji-06a353170/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.cmkrishna97@gmail.com)](mailto:contato.cmkrishna97@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/CmuraliSree)](https://twitter.com/CmuraliSree)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/murali.sreekrishna.chittoji/)](https://www.facebook.com/murali.sreekrishna.chittoji/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3b5998?style=flat-square&labelColor=3b5998&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murali-sree-krishna-chittoji-06a353170/)](https://www.linkedin.com/in/murali-sree-krishna-chittoji-06a353170/)
