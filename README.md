@@ -30,4 +30,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <h3>  C Murali sree krishna </h3>
 
 - ![#f03c15](Gmail: cmkrishna97@gmail.com)
-Linkdin: linkedin.com/in/murali-sree-krishna-chittoji-06a353170/
+- ![#1589F0](Linkdin: linkedin.com/in/murali-sree-krishna-chittoji-06a353170/)
