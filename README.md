@@ -1,4 +1,4 @@
-## Hi Myself Krishna 👋
+# Hi I am Krishna 👋
 
 ### I'm a Computer's Student passionated about development
 
