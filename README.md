@@ -1,5 +1,6 @@
 # Hi I am Krishna 👋
 
+## 👨🏻‍💻 About Me
 ### I'm a Computer's Student passionated about development
 
 - 🔭 &nbsp; I’m currently studying in GITAM, Bengaluru
