@@ -35,11 +35,11 @@ var Murali = {
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF5F6D,100:FFC371&height=1)
 
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=0:FF5F6D,100:FFC371&text=Thank%20You&fontAlign=50&height=130&fontAlignY=30&stroke=000000&strokeWidth=1&reversal=true&section=footer&fontSize=50&fontColor=fbf1c7&desc=Have%20A%20Nice%20Day)
+
 [![profile](https://img.shields.io/badge/Profile-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chittojimuralisreekrishna.github.io/portfolio/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contato.cmkrishna97@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CmuraliSree)](https://twitter.com/CmuraliSree)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/murali-sree-krishna-chittoji-06a353170/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/cmuralisree)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14588285/chittoji-murali-sree-krishna)
-
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=0:FF5F6D,100:FFC371&text=Thank%20You&fontAlign=50&height=130&fontAlignY=30&stroke=000000&strokeWidth=1&reversal=true&section=footer&fontSize=50&fontColor=fbf1c7&desc=Have%20A%20Nice%20Day)
