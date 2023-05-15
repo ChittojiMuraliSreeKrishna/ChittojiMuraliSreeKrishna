@@ -31,6 +31,7 @@ var murali = {
 
 <h2 align="center">  Contact-Me</h2>
 
+#### Mobile: +91 9972577728
 [![profile](https://img.shields.io/badge/Profile-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chittojimuralisreekrishna.github.io/portfolio/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contato.cmkrishna97@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CmuraliSree)](https://twitter.com/CmuraliSree)
