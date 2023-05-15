@@ -1,8 +1,8 @@
 <h1 align="center"> Hi I am Murali Sree Krishna C 👋 </h1>
 
 
-<p>Computer Science Graduate At GITAM, Bangalore</p>
-<p>Associate Software Engineer At OTSI, Hyderabad</p>
+<p><em>Computer Science Graduate At</em> <a href="https://www.gitam.edu/academics/gitam-campuses/bengaluru-campus">GITAM University</a></p>
+<p><em>Associate Software Engineer At</em> <a href="https://otsi-global.com/about-us/">OTSI</a></p>
 
 ```javascript
 var murali = {
@@ -19,6 +19,7 @@ var murali = {
 <h2 align="center"> Workspace setup </h2>
 
 ![ryzen7-5800hs](https://img.shields.io/badge/Amd-ryzen7_5800hs-0071C5?style=for-the-badge&logo=amd&logoColor=white)
+![inteli5-6200u](https://img.shields.io/badge/Intel-i5_6200u-0071C5?style=for-the-badge&logo=amd&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
