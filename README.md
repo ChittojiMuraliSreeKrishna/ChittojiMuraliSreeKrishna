@@ -19,22 +19,20 @@ var Murali = {
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ChittojiMuraliSreeKrishna&show_icons=true&locale=en&layout=compact&theme=onedark-duo&line_height=0" />
 </p>  -->
 
-<p align = "center">
+<p align = "left">
  <img  src="https://github-readme-stats.vercel.app/api?username=ChittojiMuraliSreeKrishna&&show_icons=true&&title_color=000000&icon_color=000000&text_color=282828&hide_title=true&text_bold=false&bg_color=40,FFC371,FF5F6D" />
 </p> 
 
-### Workspace setup
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF5F6D,100:FFC371&height=1)
 
-| Windows, Arch Linux, Ubuntu, Fedora |
+| Workspace setup |
 |:-------------------:|
+| Windows, Arch Linux, Ubuntu, Fedora |
 | VS-Code, Vim, NeoVim, sublime |
 | Amd-Ryzen 7 5800hs, Nvidea GTX 1650 |
 | Intel-I5 6200U, Intel-Hd |
 
 
-
-### Contact-Me
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF5F6D,100:FFC371&height=1)
 
 [![profile](https://img.shields.io/badge/Profile-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chittojimuralisreekrishna.github.io/portfolio/)
