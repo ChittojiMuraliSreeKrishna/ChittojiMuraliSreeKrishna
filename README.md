@@ -38,5 +38,4 @@ var murali = {
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14588285/chittoji-murali-sree-krishna)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ChittojiMuraliSreeKrishna&locale=en&layout=donut&show_icons=true&title_color=689d6a&icon_color=689d6a&text_color=fbf1c7&bg_color=00000000)](https://github.com/ChittojiMuraliSreeKrishna/github-readme-stats)
-![ChittojiMuraliSreeKrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChittojiMuraliSreeKrishna&show_icons=true&bg_color=00000000&title_color=689d6a&icon_color=689d6a&text_color=fbf1c7)
+![ChittojiMuraliSreeKrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChittojiMuraliSreeKrishna&theme=codeSTACKr&show_icons=true&bg_color=00000000&title_color=689d6a&icon_color=689d6a&text_color=fbf1c7)
