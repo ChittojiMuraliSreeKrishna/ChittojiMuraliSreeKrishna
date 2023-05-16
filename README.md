@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=0:FF5F6D,100:FFC371&text=Hi%20I%20am%20Murali&fontAlign=75&height=150&desc=-%20An%20Open%20Source%20Enthusiast&fontSize=50&fontColor=fbf1c7&descAlignY=35&fontAlignY=15&descAlign=75&stroke=000000&strokeWidth=1&rotate=10)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=0:FF5F6D,100:FFC371&text=Hi%20I%20am%20Murali&fontAlign=75&height=200&desc=-%20An%20Open%20Source%20Enthusiast&fontSize=50&fontColor=fbf1c7&descAlignY=35&fontAlignY=15&descAlign=75&stroke=000000&strokeWidth=1&rotate=10)
 
 <p><em>Computer Science Graduate At</em> <a href="https://www.gitam.edu/academics/gitam-campuses/bengaluru-campus">GITAM University</a></p>
 <p><em>Associate Software Engineer At</em> <a href="https://otsi-global.com/about-us/">OTSI</a></p>
