@@ -9,7 +9,7 @@ var Murali = {
   pronouns: "he" | "him",
   about: "Passionated about Development & Trying out New Stuff",
   languages: [HTML, CSS, JavaScript, Python, PHP, SQL, R, Docker],
-  frameworks: [JQuery, Reactjs, React-Native, SASS, NodeJs, Numpy, Flask, Django, OpenCV, BootStrap, MySql, Selenium],
+  frameworks: [JQuery, Reactjs, React-Native, SASS, NodeJs, Spring-Boot, Numpy, Flask, Django, OpenCV, BootStrap, MySql, Selenium],
   tools: [Anaconda, Bash, Android-studio, Postman, Git],
   education: [FreeCodeCamp, GeekForGeeks, CodeWars]
 }
