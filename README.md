@@ -31,6 +31,7 @@ var Murali = {
 | VS-Code, Vim, NeoVim, sublime |
 | Amd-Ryzen 7 5800hs, Nvidea GTX 1650 |
 | Intel-I5 6200U, Intel-Hd |
+| Macbook Air M4 |
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF5F6D,100:FFC371&height=1)
